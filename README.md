@@ -48,14 +48,14 @@ or
 
 - Use VS Code Live Server extension
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Enhance website responsiveness across devices
 - Improve overall UI/UX design
 - Create a professional and modern web experience
 - Practice frontend development concepts
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Add interactive animations
 - Improve accessibility features
